@@ -6,7 +6,7 @@
 
 [![Outlook Badge](https://img.shields.io/badge/breno_jzph@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:breno_jzph@hotmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/BrenoSouza-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23215712/breno-souza)
-[![Facebook Badge](https://img.shields.io/badge/Breenojs-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](facebook.com/breenojs)
+[![Facebook Badge](https://img.shields.io/badge/Breenojs-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook)](facebook.com/breenojs)
 
 
 
