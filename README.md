@@ -5,6 +5,7 @@
 <img src = 'https://i.imgur.com/OOpRj.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Outlook Badge](https://img.shields.io/badge/breno_jzph@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:breno_jzph@hotmail.com)
+[![StackOverflow Badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23215712/breno-souza)
 
 
 ### About me 🍃
