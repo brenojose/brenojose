@@ -1,8 +1,8 @@
-### 💻 [BrenoSouza](https://github.com/letscode24)
+### 💻 [BrenoSouza](https://github.com/brenojose)
 
 👋 Hello! I am Breno Souza, student of Humber College North Campus! 🚀. 
 
-<img src = 'https://i.redd.it/drkddlcuyrl41.png' alt = 'Awesome Matrix Code' align='right'/>
+<img src = 'https://i.redd.it/drkddlcuyrl41.png' alt = 'Doge Pythom' align='right'/>
 
 [![Outlook Badge](https://img.shields.io/badge/breno_jzph@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:breno_jzph@hotmail.com)
 [![StackOverflow Badge](https://img.shields.io/badge/BrenoSouza-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23215712/breno-souza)
