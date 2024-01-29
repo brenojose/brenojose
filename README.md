@@ -30,7 +30,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img src = 'https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fdrkddlcuyrl41.png' width='20'/></code>
+<code><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='20'/></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letscode24&layout=compact&cache_seconds=14400)
 
