@@ -1,8 +1,42 @@
-# Welcome to my Github
+### 💻 [BrenoSouza](https://github.com/letscode24)
 
-## About me
-Hi! New student of Web Development at Humber College, really excited to be part of the Humber team!
+👋 Hello! I am Breno Souza, student of Humber College North Campus! 🚀. 
 
-### Learn more
-Here you can find the links of my [Stack overflow](https://stackoverflow.com/users/23215712/breno-souza) and also I created an account on HackerRank which can be found [here](https://www.hackerrank.com/profile/bjgstd).
+<img src = 'https://i.imgur.com/OOpRj.gif' alt = 'Awesome Matrix Code' align='right'/>
 
+[![Outlook Badge](https://img.shields.io/badge/alef_sloan@hotmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:breno_jzph@hotmail.com)
+
+
+### About me 🍃
+
+----
+
+-  **Knowledge :** Web development student
+-  **Local:** Mississauga/CA
+-  **Hobbies :** Gym, games and animes
+-  **Facts :** You only truly change for yourself, not for another person.
+
+### Languages and tools
+
+----
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='20'/></code>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letscode24&layout=compact&cache_seconds=14400)
+
+### Other stuffs
+
+----
+
+Portfolio: (<b>WIP</b>)
+
+[![Breno Souza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letscode24&count_private=true&cache_seconds=14400&show_icons=true&theme=radical)](https://github.com/letscode24)
+
+----
