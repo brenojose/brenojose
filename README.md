@@ -40,6 +40,6 @@
 
 Portfolio: (<b>WIP</b>)
 
-[![Breno Souza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=letscode24&count_private=true&cache_seconds=14400&show_icons=true&theme=radical)](https://github.com/brenojose)
+[![Breno Souza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brenojose&count_private=true&cache_seconds=14400&show_icons=true&theme=radical)](https://github.com/brenojose)
 
 ----
