@@ -32,7 +32,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='20'/></code>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenojose&layout=compact&cache_seconds=14400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenojose&layout=compact&cache_seconds=0)
 
 ### Other stuffs
 
