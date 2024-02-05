@@ -1,6 +1,6 @@
 ### 💻 [BrenoSouza](https://github.com/brenojose)
 
-👋 Hello! I am Breno Souza, student of Humber College North Campus! 🚀. 
+👋 Hello! I am Breno Souza, student of Humber College North Campus!🚀. 
 
 <img src = 'https://i.redd.it/drkddlcuyrl41.png' alt = 'Doge Pythom' align='right'/>
 
